@@ -92,8 +92,3 @@ For questions or collaborations, please contact:
 - Vemuri Praveena: vemuripraveena2622@vitap.ac.in
 - Dr. D. John Pradeep: john.darsy@vitap.ac.in
 
-## 📜 License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-```
-
-
